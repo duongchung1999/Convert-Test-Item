@@ -1,0 +1,18 @@
+E:\2. MEVNSW\1_SourceCode\10_MondayTEST\CSharp_Test\Convert TestItem Forms\Convert TestItem Forms\bin\Debug\Convert TestItem Forms.exe.config
+E:\2. MEVNSW\1_SourceCode\10_MondayTEST\CSharp_Test\Convert TestItem Forms\Convert TestItem Forms\bin\Debug\Convert TestItem Forms.exe
+E:\2. MEVNSW\1_SourceCode\10_MondayTEST\CSharp_Test\Convert TestItem Forms\Convert TestItem Forms\bin\Debug\Convert TestItem Forms.pdb
+E:\2. MEVNSW\1_SourceCode\10_MondayTEST\CSharp_Test\Convert TestItem Forms\Convert TestItem Forms\obj\Debug\Convert_TestItem_Forms.Form1.resources
+E:\2. MEVNSW\1_SourceCode\10_MondayTEST\CSharp_Test\Convert TestItem Forms\Convert TestItem Forms\obj\Debug\Convert_TestItem_Forms.Properties.Resources.resources
+E:\2. MEVNSW\1_SourceCode\10_MondayTEST\CSharp_Test\Convert TestItem Forms\Convert TestItem Forms\obj\Debug\Convert TestItem Forms.csproj.GenerateResource.cache
+E:\2. MEVNSW\1_SourceCode\10_MondayTEST\CSharp_Test\Convert TestItem Forms\Convert TestItem Forms\obj\Debug\Convert TestItem Forms.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\10_MondayTEST\CSharp_Test\Convert TestItem Forms\Convert TestItem Forms\obj\Debug\Convert TestItem Forms.exe
+E:\2. MEVNSW\1_SourceCode\10_MondayTEST\CSharp_Test\Convert TestItem Forms\Convert TestItem Forms\obj\Debug\Convert TestItem Forms.pdb
+E:\2. MEVNSW\1_SourceCode\10_MondayTEST\CSharp_Test\Convert TestItem Forms DataGV\Convert TestItem Forms\bin\Debug\Convert TestItem Forms.exe.config
+E:\2. MEVNSW\1_SourceCode\10_MondayTEST\CSharp_Test\Convert TestItem Forms DataGV\Convert TestItem Forms\bin\Debug\Convert TestItem Forms.exe
+E:\2. MEVNSW\1_SourceCode\10_MondayTEST\CSharp_Test\Convert TestItem Forms DataGV\Convert TestItem Forms\bin\Debug\Convert TestItem Forms.pdb
+E:\2. MEVNSW\1_SourceCode\10_MondayTEST\CSharp_Test\Convert TestItem Forms DataGV\Convert TestItem Forms\obj\Debug\Convert_TestItem_Forms.Form1.resources
+E:\2. MEVNSW\1_SourceCode\10_MondayTEST\CSharp_Test\Convert TestItem Forms DataGV\Convert TestItem Forms\obj\Debug\Convert_TestItem_Forms.Properties.Resources.resources
+E:\2. MEVNSW\1_SourceCode\10_MondayTEST\CSharp_Test\Convert TestItem Forms DataGV\Convert TestItem Forms\obj\Debug\Convert TestItem Forms.csproj.GenerateResource.cache
+E:\2. MEVNSW\1_SourceCode\10_MondayTEST\CSharp_Test\Convert TestItem Forms DataGV\Convert TestItem Forms\obj\Debug\Convert TestItem Forms.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\10_MondayTEST\CSharp_Test\Convert TestItem Forms DataGV\Convert TestItem Forms\obj\Debug\Convert TestItem Forms.exe
+E:\2. MEVNSW\1_SourceCode\10_MondayTEST\CSharp_Test\Convert TestItem Forms DataGV\Convert TestItem Forms\obj\Debug\Convert TestItem Forms.pdb
