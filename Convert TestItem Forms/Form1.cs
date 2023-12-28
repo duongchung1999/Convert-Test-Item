@@ -44,10 +44,10 @@ namespace Convert_TestItem_Forms
             foreach (var item in mang1)
             {
                 var item_test = item.Split(',');
-                if (item_test[1].Contains("-")|| position==6) 
+                if (item_test[1].Contains("-")|| position == 6) 
                 //if (position == 6)
                 {
-                    if (item_test[1].Contains(".") && !output.Contains("Switch")) output += "Switch\n";
+                    if (item_test[1].Contains(".") && !output.Contains("Switch") && position == 6) output += "Switch\n";
                     if (!item_test[position].Contains("=")) continue;
                     item_test[position] = (item_test[position]).Split('=', '&')[1];
                     if(!output.Contains(item_test[position]))
