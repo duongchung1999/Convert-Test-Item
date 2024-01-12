@@ -59,7 +59,7 @@ namespace Convert_TestItem_Forms
                     if (position == 1)
                     {
                         //item_test[position] = $"{number}. "+(item_test[position]).Split('|')[0].Replace("+","");
-                        item_test[position] = (item_test[position]).Split('|')[0].Replace("+", "")+" NG";
+                        item_test[position] = (item_test[position]).Split('|')[0].Replace("+", "");
 
                     }
                     output += item_test[position] + "\n";
